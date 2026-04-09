@@ -1,0 +1,24 @@
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Flash Card Reader Product\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTL' ----   Sat Apr 12 08:54:37 2025
+
+D15   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Flash Card Reader Product\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTP' ----   Sat Apr 12 08:54:37 2025
+
+D15   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Flash Card Reader Product\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTL' ----   Sat Apr 12 09:01:42 2025
+
+D15   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Flash Card Reader Product\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTP' ----   Sat Apr 12 09:01:42 2025
+
+D15   --> D107
+-----------------------------------------------------------------

@@ -1,0 +1,6 @@
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Flash Card Reader Product\Card_Reader\Project Outputs for Card_Reader\NC Drill\PCB_Design-SlotHoles.TXT' ----   Sat Apr 12 09:06:09 2025
+
+T2   --> T7
+-----------------------------------------------------------------

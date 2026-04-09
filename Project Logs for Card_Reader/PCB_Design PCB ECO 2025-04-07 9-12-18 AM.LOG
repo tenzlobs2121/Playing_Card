@@ -1,0 +1,98 @@
+Added Component: Designator=C4(CAPC1608X95N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL10A106MO8NQNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a106mo8nqnc/samsung-electro-mechanics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.samsungsem.com/mlcc/CL10A106MO8NQN.do"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C92487"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A106MO8NQNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A106MO8NQNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A106MO8NQNC?qs=X6jEic%2FHinCV9WAzCvTcwg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(GRM033D70J224ME01D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033Z71C104KE14-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C5755505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM033Z71C104KE14J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM033Z71C104KE4J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM033Z71C104KE14J?qs=lEfY3O89AqkOnRdov738ag%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL10A226MO7JZNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl10a226mo7jznc/samsung-electro-mechanics?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.es/datasheet/2/585/MLCC-1837944.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2762594"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A226MO7JZNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL10A226MO7JZNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL10A226MO7JZNC?qs=xZ%2FP%252Ba9zWqb2i0I9rwAjeg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.lcsc.com/datasheet/lcsc_datasheet_2412201207_UMW-Youtai-Semiconductor-Co---Ltd--AMS1117-3-3_C347222.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part number"; Value = "C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=NetC3_1 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-36
+Added Pin To Net: NetName=GND Pin=IC1-37
+Added Pin To Net: NetName=GND Pin=IC1-38
+Added Pin To Net: NetName=GND Pin=IC1-39
+Added Pin To Net: NetName=GND Pin=IC1-40
+Added Pin To Net: NetName=GND Pin=IC1-41
+Added Pin To Net: NetName=GND Pin=IC1-42
+Added Pin To Net: NetName=GND Pin=IC1-43
+Added Pin To Net: NetName=GND Pin=IC1-44
+Added Pin To Net: NetName=GND Pin=IC1-45
+Added Pin To Net: NetName=GND Pin=IC1-46
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-48
+Added Pin To Net: NetName=GND Pin=IC1-49
+Added Pin To Net: NetName=GND Pin=IC1-50
+Added Pin To Net: NetName=GND Pin=IC1-51
+Added Pin To Net: NetName=GND Pin=IC1-52
+Added Pin To Net: NetName=GND Pin=IC1-53
+Added Pin To Net: NetName=GND Pin=IC1-54
+Added Pin To Net: NetName=GND Pin=IC1-55
+Added Pin To Net: NetName=GND Pin=IC1-56
+Added Pin To Net: NetName=GND Pin=IC1-57
+Added Pin To Net: NetName=GND Pin=IC1-58
+Added Pin To Net: NetName=GND Pin=IC1-59
+Added Pin To Net: NetName=GND Pin=IC1-60
+Added Pin To Net: NetName=GND Pin=IC1-61
+Added Pin To Net: NetName=3V3 Pin=IC2-2
+Change Net Name : Old Net Name=3V3 New Net Name=+3V3
+Added Pin To Net: NetName=+Vbat Pin=C4-1
+Added Pin To Net: NetName=+Vbat Pin=C5-1
+Added Pin To Net: NetName=+Vbat Pin=IC2-3
+Added Net: Name=+Vbat
+Added Pin To Net: NetName=GPIO0 Pin=IC1-12
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO1 Pin=IC1-13
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=IC1-5
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=IC1-6
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO4 Pin=IC1-18
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=IC1-19
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=IC1-20
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=GPIO7 Pin=IC1-21
+Added Net: Name=GPIO7
+Added Pin To Net: NetName=GPIO9 Pin=IC1-23
+Added Net: Name=GPIO9
+Added Pin To Net: NetName=SCL Pin=IC1-16
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-22
+Added Net: Name=SDA
+Added Member To Class: ClassName=Schematic Member=Component C4 10uF
+Added Member To Class: ClassName=Schematic Member=Component C5 0.1uF
+Added Member To Class: ClassName=Schematic Member=Component C6 22uF
+Added Member To Class: ClassName=Schematic Member=Component IC2 AMS1117-3.3
