@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=IC2-1
+Removed Pin From Net: NetName=NetBT1_1 Pin=IC2-2
+Removed Pin From Net: NetName=+3V3 Pin=IC2-3
+Change Component Footprint: Designator=IC2 Old Footprint=AP736533YG13 New Footprint=SOT230P700X180-4N
+Change Component Comment : Designator=IC2 Old Comment=AP7365-33YRG-13 New Comment=AP7365-33EG-13
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "AP736533YG13"; UniqueID = "\SGAIZLPU" ("\SGAIZLPU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "AP7365-33EG-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ap7365-33eg-13/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/AP7365-33EG-13.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP7365-33EG-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-AP7365-33EG-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7365-33EG-13?qs=abZ1nkZpTuOnc%2FR8tty8Jw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=NetBT1_1 Pin=IC2-3
