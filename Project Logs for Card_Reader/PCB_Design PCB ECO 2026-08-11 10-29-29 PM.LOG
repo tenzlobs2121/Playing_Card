@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C2 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C5 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C18 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C20 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C21 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C25 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change Component Footprint: Designator=C27 Old Footprint=GRM033D70J224ME01D New Footprint=CAPC1608X90N
+Change component parameters: Designator = "C2" ("C2"); Footprint = "GRM033D70J224ME01D"; UniqueID = "\AZZYIHXD" ("\AZZYIHXD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.passivecomponent.com/document/MLCC/MLCC_ProductCatalog.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kamaya"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0603B104K250CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

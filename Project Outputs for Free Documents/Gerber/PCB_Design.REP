@@ -2,88 +2,14 @@
 FileName = PCB_Design.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder (Board Layer Stack)
-      File : PCB_Design.GCB1
-
-    Adding Layer      : Bottom Solder (Board Layer Stack)
-
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D15
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D104
-*************************************************************
-
-*************************************************************
-Generating : Top Solder (Board Layer Stack)
-      File : PCB_Design.GCT1
-
-    Adding Layer      : Top Solder (Board Layer Stack)
-
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D15
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D104
-*************************************************************
-
-*************************************************************
 Generating : Board Shape
       File : PCB_Design.GM2
 
     Adding Layer      : Board Shape
 
-    Adding Layer      : Board Shape
-
 
 Used DCodes :
-    D15
+    D89
 *************************************************************
 
 *************************************************************
@@ -92,12 +18,9 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Board Shape
-
 
 Used DCodes :
     D14
-    D15
 *************************************************************
 
 *************************************************************
@@ -106,15 +29,13 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : L4
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
+    D13
 *************************************************************
 
 *************************************************************
@@ -123,22 +44,19 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : L4
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
-    D76
-    D77
-    D78
     D79
     D80
     D81
     D82
+    D83
+    D84
+    D85
 *************************************************************
 
 *************************************************************
@@ -147,16 +65,12 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : L1
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
-    D46
     D47
     D48
     D49
@@ -193,6 +107,9 @@ Used DCodes :
     D80
     D81
     D82
+    D83
+    D84
+    D85
 *************************************************************
 
 *************************************************************
@@ -201,14 +118,13 @@ Generating : Top Paste
 
     Adding Layer      : Top Paste
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : L1
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
     D15
     D16
     D17
@@ -240,6 +156,7 @@ Used DCodes :
     D43
     D44
     D45
+    D46
 *************************************************************
 
 *************************************************************
@@ -248,8 +165,6 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Board Shape
-
 
 Used DCodes :
     D10
@@ -257,7 +172,6 @@ Used DCodes :
     D12
     D13
     D14
-    D15
 *************************************************************
 
 *************************************************************
@@ -266,24 +180,22 @@ Generating : L4
 
     Adding Layer      : L4
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D13
-    D15
-    D84
-    D86
     D88
-    D89
-    D90
     D91
     D92
     D93
     D94
     D95
+    D96
+    D97
+    D98
+    D99
+    D108
 *************************************************************
 
 *************************************************************
@@ -292,21 +204,18 @@ Generating : L3
 
     Adding Layer      : L3
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
-    D96
-    D97
-    D98
-    D99
     D100
     D101
     D102
     D103
+    D104
+    D105
+    D106
+    D107
 *************************************************************
 
 *************************************************************
@@ -315,20 +224,18 @@ Generating : L2
 
     Adding Layer      : L2
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
-    D15
-    D84
-    D85
-    D90
+    D86
+    D88
+    D89
     D92
-    D93
-    D95
+    D96
+    D97
+    D99
 *************************************************************
 
 *************************************************************
@@ -337,13 +244,12 @@ Generating : L1
 
     Adding Layer      : L1
 
-    Adding Layer      : Board Shape
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D13
+    D14
     D15
     D16
     D17
@@ -375,9 +281,7 @@ Used DCodes :
     D43
     D44
     D45
-    D83
-    D84
-    D85
+    D46
     D86
     D87
     D88
@@ -388,22 +292,9 @@ Used DCodes :
     D93
     D94
     D95
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : PCB_Design.GD1
-
-    Adding Layer      : Board Shape
-
-    Adding Drill Pair : L1-L4
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D15
-    D105
-    D106
+    D96
+    D97
+    D98
+    D99
 *************************************************************
 

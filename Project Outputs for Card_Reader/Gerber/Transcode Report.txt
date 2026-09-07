@@ -22,3 +22,396 @@ D15   --> D104
 
 D15   --> D107
 -----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GCB1' ----   Tue Aug 11 17:27:10 2026
+
+D75   --> D156
+D76   --> D157
+D77   --> D158
+D78   --> D159
+D79   --> D160
+D80   --> D161
+D81   --> D162
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GCT1' ----   Tue Aug 11 17:27:10 2026
+
+D45   --> D163
+D46   --> D164
+D47   --> D165
+D48   --> D166
+D49   --> D167
+D50   --> D168
+D51   --> D169
+D52   --> D170
+D53   --> D171
+D54   --> D172
+D55   --> D173
+D56   --> D174
+D57   --> D175
+D58   --> D176
+D59   --> D177
+D60   --> D178
+D61   --> D179
+D62   --> D180
+D63   --> D181
+D64   --> D182
+D65   --> D183
+D66   --> D184
+D67   --> D185
+D68   --> D186
+D69   --> D187
+D70   --> D188
+D71   --> D189
+D72   --> D190
+D73   --> D191
+D74   --> D192
+D75   --> D193
+D76   --> D194
+D77   --> D195
+D78   --> D196
+D79   --> D197
+D80   --> D198
+D81   --> D199
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GD1' ----   Tue Aug 11 17:27:10 2026
+
+D105  --> D200
+D106  --> D201
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GP1' ----   Tue Aug 11 17:27:10 2026
+
+D100  --> D202
+D101  --> D203
+D102  --> D204
+D103  --> D205
+D104  --> D206
+D105  --> D207
+D106  --> D208
+D107  --> D209
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTL' ----   Tue Aug 11 17:27:10 2026
+
+D15   --> D210
+D46   --> D211
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTP' ----   Tue Aug 11 17:27:10 2026
+
+D15   --> D212
+D46   --> D213
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GTS' ----   Tue Aug 11 17:27:10 2026
+
+D47   --> D214
+D48   --> D215
+D49   --> D216
+D50   --> D217
+D51   --> D218
+D52   --> D219
+D53   --> D220
+D54   --> D221
+D55   --> D222
+D56   --> D223
+D57   --> D224
+D58   --> D225
+D59   --> D226
+D60   --> D227
+D61   --> D228
+D62   --> D229
+D63   --> D230
+D64   --> D231
+D65   --> D232
+D66   --> D233
+D67   --> D234
+D68   --> D235
+D69   --> D236
+D70   --> D237
+D71   --> D238
+D72   --> D239
+D73   --> D240
+D74   --> D241
+D75   --> D242
+D76   --> D243
+D77   --> D244
+D78   --> D245
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GP1' ----   Tue Aug 11 17:32:54 2026
+
+D105  --> D109
+D106  --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GCB1' ----   Tue Aug 11 17:32:54 2026
+
+D75   --> D111
+D76   --> D112
+D77   --> D113
+D78   --> D114
+D79   --> D115
+D80   --> D116
+D81   --> D117
+D104  --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GCT1' ----   Tue Aug 11 17:32:54 2026
+
+D45   --> D119
+D46   --> D120
+D47   --> D121
+D48   --> D122
+D49   --> D123
+D50   --> D124
+D51   --> D125
+D52   --> D126
+D53   --> D127
+D54   --> D128
+D55   --> D129
+D56   --> D130
+D57   --> D131
+D58   --> D132
+D59   --> D133
+D60   --> D134
+D61   --> D135
+D62   --> D136
+D63   --> D137
+D64   --> D138
+D65   --> D139
+D66   --> D140
+D67   --> D141
+D68   --> D142
+D69   --> D143
+D70   --> D144
+D71   --> D145
+D72   --> D146
+D73   --> D147
+D74   --> D148
+D75   --> D149
+D76   --> D150
+D77   --> D151
+D78   --> D152
+D79   --> D153
+D80   --> D154
+D81   --> D155
+D104  --> D156
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GP1' ----   Tue Aug 11 17:36:37 2026
+
+D105  --> D109
+D106  --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.G1' ----   Tue Aug 11 23:45:57 2026
+
+D86   --> D107
+D88   --> D108
+D89   --> D109
+D92   --> D110
+D96   --> D111
+D97   --> D112
+D99   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GBL' ----   Tue Aug 11 23:45:57 2026
+
+D88   --> D114
+D91   --> D115
+D92   --> D116
+D93   --> D117
+D94   --> D118
+D95   --> D119
+D96   --> D120
+D97   --> D121
+D98   --> D122
+D99   --> D123
+D108  --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GBS' ----   Tue Aug 11 23:45:57 2026
+
+D79   --> D125
+D80   --> D126
+D81   --> D127
+D82   --> D128
+D83   --> D129
+D84   --> D130
+D85   --> D131
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GM2' ----   Tue Aug 11 23:45:57 2026
+
+D89   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GP1' ----   Tue Aug 11 23:45:57 2026
+
+D100  --> D133
+D101  --> D134
+D102  --> D135
+D103  --> D136
+D104  --> D137
+D105  --> D138
+D106  --> D139
+D107  --> D140
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GTL' ----   Tue Aug 11 23:45:58 2026
+
+D15   --> D141
+D16   --> D142
+D17   --> D143
+D18   --> D144
+D19   --> D145
+D20   --> D146
+D21   --> D147
+D22   --> D148
+D23   --> D149
+D24   --> D150
+D25   --> D151
+D26   --> D152
+D27   --> D153
+D28   --> D154
+D29   --> D155
+D30   --> D156
+D31   --> D157
+D33   --> D158
+D34   --> D159
+D35   --> D160
+D36   --> D161
+D37   --> D162
+D38   --> D163
+D39   --> D164
+D40   --> D165
+D41   --> D166
+D42   --> D167
+D43   --> D168
+D44   --> D169
+D45   --> D170
+D46   --> D171
+D86   --> D172
+D87   --> D173
+D88   --> D174
+D89   --> D175
+D90   --> D176
+D91   --> D177
+D92   --> D178
+D93   --> D179
+D94   --> D180
+D95   --> D181
+D96   --> D182
+D97   --> D183
+D98   --> D184
+D99   --> D185
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GTO' ----   Tue Aug 11 23:45:58 2026
+
+D10   --> D186
+D11   --> D187
+D12   --> D188
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design - Copy.GTP' ----   Tue Aug 11 23:45:58 2026
+
+D15   --> D189
+D16   --> D190
+D17   --> D191
+D18   --> D192
+D19   --> D193
+D20   --> D194
+D21   --> D195
+D22   --> D196
+D23   --> D197
+D24   --> D198
+D25   --> D199
+D26   --> D200
+D27   --> D201
+D28   --> D202
+D29   --> D203
+D30   --> D204
+D31   --> D205
+D33   --> D206
+D34   --> D207
+D35   --> D208
+D36   --> D209
+D37   --> D210
+D38   --> D211
+D39   --> D212
+D40   --> D213
+D41   --> D214
+D42   --> D215
+D43   --> D216
+D44   --> D217
+D45   --> D218
+D46   --> D219
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GCB1' ----   Tue Aug 11 23:45:58 2026
+
+D75   --> D220
+D77   --> D221
+D104  --> D222
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Card_Reader\Gerber\PCB_Design.GCT1' ----   Tue Aug 11 23:45:58 2026
+
+D45   --> D223
+D46   --> D224
+D47   --> D225
+D48   --> D226
+D49   --> D227
+D50   --> D228
+D51   --> D229
+D52   --> D230
+D53   --> D231
+D54   --> D232
+D55   --> D233
+D56   --> D234
+D57   --> D235
+D58   --> D236
+D59   --> D237
+D60   --> D238
+D61   --> D239
+D62   --> D240
+D63   --> D241
+D64   --> D242
+D65   --> D243
+D66   --> D244
+D67   --> D245
+D68   --> D246
+D69   --> D247
+D70   --> D248
+D71   --> D249
+D72   --> D250
+D73   --> D251
+D75   --> D252
+D77   --> D253
+D104  --> D254
+-----------------------------------------------------------------

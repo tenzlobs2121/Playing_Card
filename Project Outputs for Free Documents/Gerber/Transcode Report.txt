@@ -1,0 +1,89 @@
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GCB1' ----   Tue Aug 11 17:19:35 2026
+
+D79   --> D100
+D80   --> D101
+D81   --> D102
+D82   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GCT1' ----   Tue Aug 11 17:19:35 2026
+
+D79   --> D105
+D80   --> D106
+D81   --> D107
+D82   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GD1' ----   Tue Aug 11 17:19:35 2026
+
+D105  --> D110
+D106  --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GP1' ----   Tue Aug 11 17:19:35 2026
+
+D100  --> D112
+D101  --> D113
+D102  --> D114
+D103  --> D115
+D104  --> D116
+D105  --> D117
+D106  --> D118
+D107  --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GTL' ----   Tue Aug 11 17:19:35 2026
+
+D15   --> D120
+D46   --> D121
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GTP' ----   Tue Aug 11 17:19:35 2026
+
+D15   --> D122
+D46   --> D123
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Card_Reader\Project Outputs for Free Documents\Gerber\PCB_Design.GTS' ----   Tue Aug 11 17:19:35 2026
+
+D47   --> D124
+D48   --> D125
+D49   --> D126
+D50   --> D127
+D51   --> D128
+D52   --> D129
+D53   --> D130
+D54   --> D131
+D55   --> D132
+D56   --> D133
+D57   --> D134
+D58   --> D135
+D59   --> D136
+D60   --> D137
+D61   --> D138
+D62   --> D139
+D63   --> D140
+D64   --> D141
+D65   --> D142
+D66   --> D143
+D67   --> D144
+D68   --> D145
+D69   --> D146
+D70   --> D147
+D71   --> D148
+D72   --> D149
+D73   --> D150
+D74   --> D151
+D75   --> D152
+D76   --> D153
+D77   --> D154
+D78   --> D155
+-----------------------------------------------------------------

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB_Design.GBR   2025-04-12  8:00:17 AM
+Gerber File Extension Report For: PCB_Design.GBR   2026-08-11  5:11:34 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -17,7 +17,4 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                Board Shape                             
-.GCT1               Top Solder (Board Layer Stack)          
-.GCB1               Bottom Solder (Board Layer Stack)       
-.GD1                Drill Drawing                           
 ------------------------------------------------------------------------------------------
