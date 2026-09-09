@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 11:53:58 PM On 2026-08-11
+Start Output Generation At 11:37:46 PM On 2026-09-08
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Card_Reader.PrjPcb]
-   Generated File[Bill of Materials-Card_Reader.xlsx]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Prototype_1] of PCB Document [PCB_Design.PcbDoc]
+   Generated File[Pick Place for PCB_Design(Prototype_1).csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:54:32 PM On 2026-08-11
+Finished Output Generation At 11:37:54 PM On 2026-09-08

@@ -2,75 +2,33 @@
 FileName = PCB_Design.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Shape
-      File : PCB_Design.GM2
+Generating : Bottom Solder (Board Layer Stack)
+      File : PCB_Design.GCB1
 
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D89
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_Design.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Solder (Board Layer Stack)
 
 
 Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PCB_Design.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : L4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB_Design.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : L4
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D75
+    D76
+    D77
+    D78
     D79
     D80
     D81
-    D82
-    D83
-    D84
-    D85
+    D104
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PCB_Design.GTS
+Generating : Top Solder (Board Layer Stack)
+      File : PCB_Design.GCT1
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : L1
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Solder (Board Layer Stack)
 
 
 Used DCodes :
+    D45
+    D46
     D47
     D48
     D49
@@ -106,10 +64,117 @@ Used DCodes :
     D79
     D80
     D81
-    D82
-    D83
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : PCB_Design.GM2
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
     D84
-    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Design.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_Design.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_Design.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_Design.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
 *************************************************************
 
 *************************************************************
@@ -125,6 +190,7 @@ Generating : Top Paste
 
 Used DCodes :
     D13
+    D14
     D15
     D16
     D17
@@ -155,8 +221,6 @@ Used DCodes :
     D42
     D43
     D44
-    D45
-    D46
 *************************************************************
 
 *************************************************************
@@ -185,17 +249,18 @@ Generating : L4
 
 Used DCodes :
     D13
+    D14
+    D82
+    D85
+    D87
     D88
+    D89
+    D90
     D91
     D92
     D93
     D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D108
+    D103
 *************************************************************
 
 *************************************************************
@@ -208,14 +273,14 @@ Generating : L3
 
 
 Used DCodes :
+    D95
+    D96
+    D97
+    D98
+    D99
     D100
     D101
     D102
-    D103
-    D104
-    D105
-    D106
-    D107
 *************************************************************
 
 *************************************************************
@@ -228,14 +293,14 @@ Generating : L2
 
 
 Used DCodes :
+    D13
     D14
-    D86
-    D88
-    D89
+    D82
+    D83
+    D84
+    D91
     D92
-    D96
-    D97
-    D99
+    D94
 *************************************************************
 
 *************************************************************
@@ -280,8 +345,10 @@ Used DCodes :
     D42
     D43
     D44
-    D45
-    D46
+    D82
+    D83
+    D84
+    D85
     D86
     D87
     D88
@@ -291,10 +358,5 @@ Used DCodes :
     D92
     D93
     D94
-    D95
-    D96
-    D97
-    D98
-    D99
 *************************************************************
 

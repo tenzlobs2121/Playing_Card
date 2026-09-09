@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XEYMCYDW
+DocumentUniqueId=ZKGKOFJD
 
 [Document4]
 DocumentPath=PcbLib1.PcbLib
@@ -130,8 +130,7 @@ UniqueID=42D238B8-A224-4E46-8C0E-02BF584EFBD0
 Description=Prototype_1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=C2|UniqueId=\AGUAFSKX|Kind=0|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]

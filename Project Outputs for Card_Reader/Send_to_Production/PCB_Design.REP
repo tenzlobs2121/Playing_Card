@@ -2,17 +2,6 @@
 FileName = PCB_Design.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB_Design.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : PCB_Design.GBS
 
@@ -44,9 +33,10 @@ Generating : L4
 
 Used DCodes :
     D13
+    D14
     D82
     D85
-    D86
+    D87
     D88
     D89
     D90
@@ -54,51 +44,22 @@ Used DCodes :
     D92
     D93
     D94
-    D95
+    D103
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PCB_Design.GTP
+Generating : Top Overlay
+      File : PCB_Design.GTO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : L1
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -168,26 +129,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : L2
-      File : PCB_Design.G1
-
-    Adding Layer      : L2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D83
-    D85
-    D86
-    D90
-    D92
-    D93
-    D95
-*************************************************************
-
-*************************************************************
 Generating : L1
       File : PCB_Design.GTL
 
@@ -198,6 +139,7 @@ Generating : L1
 
 Used DCodes :
     D13
+    D14
     D15
     D16
     D17
@@ -241,7 +183,58 @@ Used DCodes :
     D92
     D93
     D94
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Design.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : PCB_Design.G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D82
+    D83
+    D84
+    D91
+    D92
+    D94
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : PCB_Design.GP1
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
 *************************************************************
 
 *************************************************************
@@ -296,6 +289,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Paste
+      File : PCB_Design.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
 Generating : Board Shape
       File : PCB_Design.GM2
 
@@ -303,55 +342,6 @@ Generating : Board Shape
 
 
 Used DCodes :
-    D86
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_Design.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : L3
-      File : PCB_Design.GP1
-
-    Adding Layer      : L3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : PCB_Design.GD1
-
-    Adding Drill Pair : L1-L4
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D105
-    D106
+    D84
 *************************************************************
 
